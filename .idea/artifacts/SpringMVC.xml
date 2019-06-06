@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMVC">
+    <output-path>F:/Tom/apache-tomcat-8.5.38-windows-x64/apache-tomcat-8.5.38/webapps/SpringMVC</output-path>
+    <root id="root" />
+  </artifact>
+</component>

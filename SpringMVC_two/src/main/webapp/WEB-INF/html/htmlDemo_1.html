@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Html标签</title>
+    <style>
+        h1{
+            color: purple;
+        }
+        h3{
+            color: green;
+        }
+        .one{
+            width: 20%;
+            height: 200px;
+            color: red;
+        }
+        .box{
+            background-color: green;
+            width: 80%;
+            height: 300px;
+            padding: 10px;
+            border: yellow 10px solid;
+        }
+
+    </style>
+</head>
+<body>
+<div>
+    <h1 align="center">Html常用标签</h1>
+    <h1 style="text-align: center">这也是一个居中标题</h1>
+    <div align="center">
+        <h2 align="left">这里采用div标签进行布局，这是非常常用的一个布局标签</h2>
+        <p><b>html标记语言主要用来显示内容，而样式由css层叠样式控制，动态效果由javascript控制</b></p>
+        <p><b>当然有些时候功能会有重合，如上两个标题</b></p>
+        <p>一个完整的HTML文档必须包含3个部分：文档声明、文档头部和文档主体。而正是它们构成了HTML的骨架结构。</p>
+        <p>前面已经分别介绍过文档声明和文档头部，本文将详细介绍构成HTML骨架结构的基础元素</p>
+        <h1>本文件就是一个标准的Html文件</h1>
+       <div>
+           <textarea class="one">
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <meta charset="UTF-8">
+                <title>Document</title>
+            </head>
+            <body>
+            </body>
+            </html>
+           </textarea>
+       </div>
+        <img src="http://images2015.cnblogs.com/blog/740839/201612/740839-20161224090242776-1552581192.jpg"
+        width="300px" align="center" height="300px">
+    </div>
+</div>
+    <h1>接下来我们看一下常见的标签</h1>
+    <h3 align="center">有表格，列表，图像，链接，表单等</h3>
+    <div class="box">
+        <h1>表单</h1>
+        <h4>表单较为复杂，属性较多，有很多种输入格式，如密码，文本框 ，复选框等</h4>
+        表单
+            form	定义一个 HTML 表单，用于用户输入。
+            input	定义一个输入控件
+            textarea	定义多行的文本输入控件。
+            button	定义按钮。
+            select	定义选择列表（下拉列表）。
+            optgroup	定义选择列表中相关选项的组合。
+            option	定义选择列表中的选项。
+            label	定义 input 元素的标注。
+        <div align="left">
+            <form>
+                <label for="pt">文本框</label>
+                <input type="text" id="pt" value="text">
+                <label for="pp">密码框</label>
+                <input type="password" id="pp" value="password" style="background: transparent"><br>
+                <label>单选框</label>
+                <input type="radio" id="pr1" name="i">男
+                <input type="radio" id="pr2" name="i">女
+                <br>
+                <label>复选框</label>
+                <input type="checkbox" name="ch">18岁
+                <input type="checkbox" name="ch">大一
+                <input type="checkbox" name="ch">男生
+                <br>
+                <label for="ps">下拉列表</label>
+                <select id="ps">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                </select>
+            </form>
+        </div>
+    </div>
+    <div class="box">
+        <h1>表格</h1>
+        table	定义一个表格
+        caption	定义表格标题。
+        th	定义表格中的表头单元格。
+        tr	定义表格中的行。
+        td	定义表格中的单元。
+        thead	定义表格中的表头内容。
+        tbody	定义表格中的主体内容。
+
+        <table align="left" border="3px">
+            <caption>表格标题</caption>
+            <thead>
+            <tr>
+            <th>name</th>
+            <th>age</th>
+            <th>sex</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>name</td>
+                <td>age</td>
+                <td>sex</td>
+            </tr>
+            <tr>
+                <td>Tom</td>
+                <td>21</td>
+                <td>man</td>
+            </tr>
+            <tr>
+                <td>Sally</td>
+                <td>18</td>
+                <td>girl</td>
+            </tr>
+            <tr>
+                <td>Jim</td>
+                <td>19</td>
+                <td>boy</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+<div class="box">
+    <h1>列表（ol有序，ul无序，li列表项）</h1>
+    <ol style="float:right ;font-size:30px ;">
+        <li>我</li>
+        <li>是</li>
+        <li>有</li>
+        <li>序</li>
+        <li>的</li>
+        <li>ol</li>
+    </ol>
+    <ul>
+        <li>我</li>
+        <li>是</li>
+        <li>无</li>
+        <li>序</li>
+        <li>的</li>
+        <li>ul</li>
+    </ul>
+</div>
+</body>
+</html>

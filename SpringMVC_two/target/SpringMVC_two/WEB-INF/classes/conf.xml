@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!-- 这是根标签  -->
+<configuration>
+    <!-- 元素允许在主配置文件之外提供一个properties格式对应文件，从而使得主配置文件更加通用。这样对部署非常有用  -->
+    <!-- <properties resource="mysql.properties" /> -->
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC" />
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://localhost:3306/work"/>
+                <property name="username" value="root"/>
+                <property name="password" value="342425"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <!-- 列出映射文件 -->
+    <mappers>
+      <mapper resource="Jdbc/Mapper/MapperWork.xml"/>
+
+    </mappers>
+</configuration>
+

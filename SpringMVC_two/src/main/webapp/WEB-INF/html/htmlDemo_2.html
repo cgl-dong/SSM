@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HtmlDemo_2</title>
+    <script src=" https://cdn.staticfile.org/vue/2.2.2/vue.min.js"></script>
+    <script>
+
+       function bu() {
+           var x=document.getElementById("ph");
+           x.innerHTML="妙蛙种子";
+
+       }
+       var y=[];
+       y.push("hello");
+       y.push("world");
+       y.push("yes");
+       for (var i=0;i<y.length;i++){
+           document.write(y[i]+"\n");
+       }
+
+    </script>
+
+</head>
+<body>
+    <h1 align="center" id="ph" onclick="bu()">hello 我是皮卡丘</h1>
+    <label for="y">hello</label>
+    <input type="text" id="y">
+<h3 id="h3">{{message}}</h3>
+    <script>
+    new Vue({
+    el:"#h3",
+    data:{
+    message:"Hello Vue.js"
+    }
+    }
+    )
+    </script>
+</body>
+</html>

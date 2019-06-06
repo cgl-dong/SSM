@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        //数组中有三个对象
+        var s=[
+            {"name":"TOM","age":10},
+            {"name":"Jam","age":18},
+            {"name":"Sally","age":15}
+        ];
+        //一个对象
+        var x={"color":"yellow","num":10};
+        //页面输出
+        document.write(s[0].name)
+        //控制台输出
+        console.log(x.color,x.num);
+
+        //对象与数组，sum对象是一个数组，数组中又有三个对象
+        var l={
+            "sum":[
+                {"math":100},
+                {"chinese":99},
+                {"gender":"男"}
+            ]
+        }
+        document.write(l.sum[0].math+'\n')
+        document.write(l.sum[1].chinese)
+        document.write(l.sum[2].gender)
+
+
+        for(var k in x){
+            document.write(x[k])
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="mapper.actorMapper">
+    <select id="getActor" parameterType="int"
+         resultType="mybits.Actor">
+           select actor_id,first_name,last_name from actor where actor_id=${value}
+     </select>
+         </mapper>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ajax</title>
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js">
+    </script>
+    <script>
+        $(document).ready(function () {
+                $("#b").click(function () {
+                    $("#pp").html("<h1>你也好</h1>");
+                    $("#i").val("no");
+                    $("#p").load("/MVC/mvc6/req","get",function (resText,statusText) {
+                        alert(resText)
+                    })
+                })
+            }
+        );
+        $(document).ready(function () {
+                $("#bb").click(function () {
+                    $.ajax({
+                        url:"/MVC/mvc6/req",
+                        type:"post",
+                        data:"username=jack",
+                        dataType:"html",
+                        success:function (data) {
+                            $("#hh").html(data)
+                        },
+                        error:function () {
+                            alert("失败了、、")
+                        }
+                    })
+                })
+            }
+        );
+        $(document).ready(function () {
+            $("#bbb").click(function () {
+                $.ajax({
+                    url:"/Tom/One/uss",
+                    type:"post",
+                    data:{"name":"Tom","age":18},
+                    dataType:"json",
+                    success:function (data) {
+                        alert(data.name)
+                    },
+                    error:function () {
+                        alert("失败了、、")
+                    }
+                })
+            })
+        })
+    </script>
+</head>
+<body>
+<p id="pp">大家好！</p>
+<button id="b"> Go</button>
+<input id="i" value="yes">
+
+<h2 id="p">load方法</h2>
+<br>
+<br>
+<br>
+<button id="bb">Go Go</button>
+<h2 id="hh">收到数据。。。。。</h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<button id="bbb">Go Go Go</button>
+<h2 id="hhh">Json数据呀</h2>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+       xmlns:context="http://www.springframework.org/schema/context"
+
+       xmlns:aop="http://www.springframework.org/schema/aop"
+
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+
+ http://www.springframework.org/schema/beans/spring-beans.xsd
+
+  http://www.springframework.org/schema/context
+
+    http://www.springframework.org/schema/context/spring-context.xsd
+
+      http://www.springframework.org/schema/aop
+
+http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+
+    <!--1.添加命名空间和约束，如上
+        2.类扫描器，扫描包下使用了注解的所有类-->
+
+    <context:component-scan base-package="com.hello"></context:component-scan>
+    <context:component-scan base-package="Dao"></context:component-scan>
+
+    <!--使用bean创建对象-->
+    <!--<bean id="car"  class="com.hello.Car" ></bean>-->
+    <aop:config>
+        <aop:pointcut id="pointcut" expression="execution(* com.hello.Userd.addUser())"></aop:pointcut>
+        <aop:aspect ref="useraspect">
+            <aop:before method="before" pointcut-ref="pointcut"/>
+            <aop:after method="before" pointcut-ref="pointcut"/>
+        </aop:aspect>
+    </aop:config>
+</beans>

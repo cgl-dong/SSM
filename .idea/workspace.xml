@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TomcatRubbish:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d93a71b-0b1a-4944-b2eb-1fbc7f990a6c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/SpringMVC_two/target/" />
+    <ignored path="$PROJECT_DIR$/demoboot/target/" />
+    <ignored path="$PROJECT_DIR$/TomcatRubbish/target/" />
+    <ignored path="$PROJECT_DIR$/bootleaf/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MavenSpring" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootleaf/src/main/java/com/example/bootleaf/No1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/templates/one.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/templates/Vue_2.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/redisdemo/RedisDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Jsp File" />
+        <option value="spring-beans.schema" />
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/java/SpringMVCDemo/SpringDemo3.java" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/html/htmlDemo_2.html" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/java/model/model/User.java" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/java/model/model/Aderess.java" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/jsp/Vuejs.jsp" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/java/SpringMVCDemo/SpringDemo4.java" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/resources/banner.txt" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/java/com/example/demoboot/DemobootApplication.java" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/html/AjaxDemo.html" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/java/SpringMVCDemo/SpringDemo5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dont/AIDemo.java" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/jsp/login_2.jsp" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/java/SpringMVCDemo/SpringDemo.java" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/jsp/hello.jsp" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/html/yesHtml.html" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/java/SpringMVCDemo/Users.java" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/java/SpringMVCDemo/SpringDemo6.java" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/html/AjaxJquery.html" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/res/springmvc-servlet.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/pom.xml" />
+        <option value="$PROJECT_DIR$/TomcatRubbish/pom.xml" />
+        <option value="$PROJECT_DIR$/TomcatRubbish/src/main/res/springmvc_servlet.xml" />
+        <option value="$PROJECT_DIR$/TomcatRubbish/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/TomcatRubbish/src/main/Java/Demo/Users.java" />
+        <option value="$PROJECT_DIR$/TomcatRubbish/src/main/webapp/WEB-INF/jsp/AjaxJquery.html" />
+        <option value="$PROJECT_DIR$/TomcatRubbish/src/main/Java/Demo/One.java" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/java/com/thymeleaf/ThymeleafOne.java" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/java/com/example/demoboot/o1.html" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/resources/static/js.html" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/java/com/example/demoboot/thymeleaf/Userss.java" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/resources/static/thy1.html" />
+        <option value="$PROJECT_DIR$/bootleaf/src/main/resources/static/no1.html" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/java/com/example/demoboot/thymeleaf/ThymeleafOne.java" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/java/com/example/demoboot/MyConfig.java" />
+        <option value="$PROJECT_DIR$/bootleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/bootleaf/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/demoboot/pom.xml" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/java/com/example/demoboot/ThymeleafOne.java" />
+        <option value="$PROJECT_DIR$/demoboot/src/main/resources/templates/thy1.html" />
+        <option value="$PROJECT_DIR$/bootleaf/src/main/resources/static/css/img.css" />
+        <option value="$PROJECT_DIR$/bootleaf/src/main/resources/static/css/hello.css" />
+        <option value="$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/html/VueHtml.html" />
+        <option value="$PROJECT_DIR$/bootleaf/src/main/java/com/example/bootleaf/Userss.java" />
+        <option value="$PROJECT_DIR$/bootleaf/src/main/java/com/example/bootleaf/No1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/redisdemo/RedisDemo.java" />
+        <option value="$PROJECT_DIR$/bootleaf/src/main/resources/templates/one.html" />
+        <option value="$PROJECT_DIR$/bootleaf/src/main/resources/templates/Vue_2.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MavenSpring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1258" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MavenSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenSpring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="bootleaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="bootleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="bootleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="bootleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="bootleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bootleaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="bootleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="bootleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MavenSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="bootleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559842245024" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="F:/gitFirst" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27126437" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hello" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\车国亮\IdeaProjects\MavenSpring\demoboot\src\main\resources\static" />
+      <recent name="C:\Users\车国亮\IdeaProjects\MavenSpring\demoboot\src\main\resources\static\META-INF\resources" />
+      <recent name="C:\Users\车国亮\IdeaProjects\MavenSpring\demoboot\src\main\resources\templates" />
+      <recent name="C:\Users\车国亮\IdeaProjects\MavenSpring\TomcatRubbish\src\main\webapp\WEB-INF\jsp" />
+      <recent name="C:\Users\车国亮\IdeaProjects\MavenSpring\src\main\java\mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demoboot" />
+      <recent name="model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.bootleaf" />
+      <recent name="Demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\车国亮\IdeaProjects\MavenSpring\bootleaf\src\main\resources\static" />
+      <recent name="C:\Users\车国亮\IdeaProjects\MavenSpring\bootleaf\src\main\resources\static\css" />
+      <recent name="C:\Users\车国亮\IdeaProjects\MavenSpring\bootleaf\src\main\resources\static\js" />
+      <recent name="C:\Users\车国亮\IdeaProjects\MavenSpring\bootleaf\src\main\java\css" />
+      <recent name="C:\Users\车国亮\IdeaProjects\MavenSpring\bootleaf\src\main\resources\static\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RedisDemo.redisdemo">
+    <configuration name="AIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dont.AIDemo" />
+      <module name="MavenSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dont.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jdbc.Mybits.Execute" />
+      <module name="SpringMVC_two" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jdbc.Mybits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testjdbc.Test1" />
+      <module name="MavenSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testjdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jdbc_2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Dao" />
+      <option name="MAIN_CLASS_NAME" value="Dao.Jdbc_2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemo.redisdemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MavenSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="redisdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="redisdemo" />
+      <option name="MAIN_CLASS_NAME" value="redisdemo.RedisDemo" />
+      <option name="METHOD_NAME" value="redisdemo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringMVC_two" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SpringDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SpringDemo" />
+      <option name="MAIN_CLASS_NAME" value="SpringDemo.UserTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bootleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.bootleaf.BootleafApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemobootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demoboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demoboot.DemobootApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rubbish" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Tom/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="TomcatRubbish:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Tom" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MavenSpring_4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8638" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="TomcatRubbish:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="SpringMVC_two" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="SpringMVC_two:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/MVC" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MavenSpring_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="6562" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Springmvc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="SpringMVC">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SpringMVC" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MavenSpring" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="4165" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringMVC" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="springmvc_three" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SpringMVC_two:war exploded2">
+          <settings>
+            <option name="CONTEXT_PATH" value="/MVC" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MavenSpring_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5713" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringMVC_two:war exploded2" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Execute" />
+      <item itemvalue="Application.AIDemo" />
+      <item itemvalue="JUnit.UserTest.test3" />
+      <item itemvalue="JUnit.Jdbc_2.test" />
+      <item itemvalue="JUnit.RedisDemo.redisdemo" />
+      <item itemvalue="Spring Boot.DemobootApplication" />
+      <item itemvalue="Spring Boot.BootleafApplication" />
+      <item itemvalue="Tomcat Server.springmvc_three" />
+      <item itemvalue="Tomcat Server.SpringMVC_two" />
+      <item itemvalue="Tomcat Server.Rubbish" />
+      <item itemvalue="Tomcat Server.Springmvc" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisDemo.redisdemo" />
+        <item itemvalue="Application.AIDemo" />
+        <item itemvalue="JUnit.Jdbc_2.test" />
+        <item itemvalue="Application.Execute" />
+        <item itemvalue="JUnit.UserTest.test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showModules" value="false" />
+    <option name="showDoc" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d93a71b-0b1a-4944-b2eb-1fbc7f990a6c" name="Default Changelist" comment="" />
+      <created>1555043427201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555043427201</updated>
+      <workItem from="1555043428861" duration="356000" />
+      <workItem from="1555240554826" duration="53000" />
+      <workItem from="1555495651834" duration="98000" />
+      <workItem from="1555495773439" duration="676000" />
+      <workItem from="1555496498620" duration="414000" />
+      <workItem from="1555496928939" duration="1975000" />
+      <workItem from="1555501716339" duration="5347000" />
+      <workItem from="1555508318865" duration="1876000" />
+      <workItem from="1555525400558" duration="2917000" />
+      <workItem from="1555558530605" duration="807000" />
+      <workItem from="1555748224326" duration="656000" />
+      <workItem from="1555764418945" duration="956000" />
+      <workItem from="1555768745011" duration="15000" />
+      <workItem from="1555768786664" duration="5804000" />
+      <workItem from="1555815013860" duration="4629000" />
+      <workItem from="1555820228667" duration="63000" />
+      <workItem from="1555820650094" duration="2014000" />
+      <workItem from="1555848148905" duration="6017000" />
+      <workItem from="1555857785222" duration="1652000" />
+      <workItem from="1556027148646" duration="33000" />
+      <workItem from="1556027957095" duration="746000" />
+      <workItem from="1556029674694" duration="42000" />
+      <workItem from="1556037988430" duration="246000" />
+      <workItem from="1556038472935" duration="11000" />
+      <workItem from="1556039897354" duration="6000" />
+      <workItem from="1556101354790" duration="5243000" />
+      <workItem from="1556106682631" duration="35000" />
+      <workItem from="1556106750697" duration="11000" />
+      <workItem from="1556173103351" duration="5271000" />
+      <workItem from="1556191140530" duration="20000" />
+      <workItem from="1556191250976" duration="22000" />
+      <workItem from="1556434952689" duration="5017000" />
+      <workItem from="1556440334086" duration="434000" />
+      <workItem from="1556506689557" duration="1700000" />
+      <workItem from="1556806340921" duration="171000" />
+      <workItem from="1557155290086" duration="1462000" />
+      <workItem from="1557159875682" duration="678000" />
+      <workItem from="1557160586731" duration="712000" />
+      <workItem from="1557161718278" duration="338000" />
+      <workItem from="1557162084353" duration="28000" />
+      <workItem from="1557162155007" duration="977000" />
+      <workItem from="1557163150375" duration="76000" />
+      <workItem from="1557193877081" duration="2128000" />
+      <workItem from="1557310744405" duration="3661000" />
+      <workItem from="1557315432680" duration="21000" />
+      <workItem from="1557315484563" duration="5208000" />
+      <workItem from="1557501278647" duration="113000" />
+      <workItem from="1557540201694" duration="3849000" />
+      <workItem from="1557591125194" duration="3173000" />
+      <workItem from="1557595368053" duration="1901000" />
+      <workItem from="1557632504303" duration="3562000" />
+      <workItem from="1557698781878" duration="20355000" />
+      <workItem from="1557840304236" duration="3097000" />
+      <workItem from="1558100568860" duration="6384000" />
+      <workItem from="1558363659417" duration="1677000" />
+      <workItem from="1558757692569" duration="82000" />
+      <workItem from="1558757809983" duration="19000" />
+      <workItem from="1558757909237" duration="6124000" />
+      <workItem from="1558805236171" duration="2024000" />
+      <workItem from="1558971533937" duration="472000" />
+      <workItem from="1559064935857" duration="5096000" />
+      <workItem from="1559462996575" duration="3771000" />
+      <workItem from="1559471364358" duration="6525000" />
+      <workItem from="1559484352204" duration="4996000" />
+      <workItem from="1559536183785" duration="1318000" />
+      <workItem from="1559538138787" duration="6021000" />
+      <workItem from="1559544559513" duration="902000" />
+      <workItem from="1559581389659" duration="198000" />
+      <workItem from="1559718908581" duration="3551000" />
+      <workItem from="1559763089960" duration="1701000" />
+      <workItem from="1559842172962" duration="663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Jdbc_2_test - 2019.05.13 at 21h 14m 40s.xml">
+      <configuration name="Jdbc_2.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Jdbc_2_test - 2019.05.13 at 21h 15m 41s.xml">
+      <configuration name="Jdbc_2.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Jdbc_2_test - 2019.05.13 at 21h 16m 20s.xml">
+      <configuration name="Jdbc_2.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Jdbc_2_test - 2019.05.13 at 21h 16m 40s.xml">
+      <configuration name="Jdbc_2.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Jdbc_2_test - 2019.05.13 at 21h 20m 42s.xml">
+      <configuration name="Jdbc_2.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Jdbc_2_test - 2019.05.13 at 21h 21m 07s.xml">
+      <configuration name="Jdbc_2.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Jdbc_2_test - 2019.05.13 at 23h 13m 35s.xml">
+      <configuration name="Jdbc_2.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Jdbc_2_test - 2019.05.13 at 23h 14m 28s.xml">
+      <configuration name="Jdbc_2.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisDemo_redisdemo - 2019.06.06 at 03h 38m 46s.xml">
+      <configuration name="RedisDemo.redisdemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisDemo_redisdemo - 2019.06.06 at 03h 39m 37s.xml">
+      <configuration name="RedisDemo.redisdemo" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="158196000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49529782" visible="true" weight="0.23298033" />
+      <window_info id="Structure" order="1" sideWeight="0.5037037" side_tool="true" weight="0.21709532" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5047022" side_tool="true" weight="0.22617246" />
+      <window_info id="Web" order="7" sideWeight="0.502455" side_tool="true" weight="0.2730711" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6535552" weight="0.45826513" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47790506" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3464448" side_tool="true" weight="0.3502455" />
+      <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4969743" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3591">
+          <caret line="189" column="10" selection-start-line="189" selection-start-column="10" selection-end-line="189" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/static/META-INF/resources/index.html" />
+    <entry file="file://$PROJECT_DIR$/demoboot/.mvn/wrapper/MavenWrapperDownloader.java" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/banner.txt" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/static/js.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/testjdbc/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoboot/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/static/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/templates/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/static/thy1.html" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/resources/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/static/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/static/o1.html" />
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/java/com/example/bootleaf/BootleafApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="68" lean-forward="true" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoboot/target/classes/META-INF/o1.html" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/java/com/example/demoboot/DemobootApplication.java" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/java/com/example/demoboot/MyConfig.java" />
+    <entry file="file://$PROJECT_DIR$/bootleaf/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/java/com/example/demoboot/thymeleaf/Userss.java" />
+    <entry file="file://$PROJECT_DIR$/demoboot/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/java/com/example/demoboot/ThymeleafOne.java" />
+    <entry file="file://$PROJECT_DIR$/demoboot/src/main/resources/templates/thy1.html" />
+    <entry file="file://$PROJECT_DIR$/TomcatRubbish/src/main/webapp/WEB-INF/jsp/AjaxJquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TomcatRubbish/src/main/Java/Demo/One.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/java/css/img.css" />
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/static/css/img.css" />
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/static/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/static/js/vue.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/static/css/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/static/juery.min.js" />
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/static/jquery.min.js" />
+    <entry file="jar://F:/maven/repository/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven/repository/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/static/css/hello.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/html/VueHtml.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/java/com/example/bootleaf/Userss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC_two/src/main/java/SpringMVCDemo/SpringDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC_two/src/main/java/SpringMVCDemo/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC_two/src/main/java/SpringMVCDemo/SpringDemo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC_two/src/main/java/SpringMVCDemo/SpringDemo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hello/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hello/Userd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/static/no1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC_two/src/main/webapp/WEB-INF/html/AjaxJquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-349">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/java/com/example/bootleaf/No1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/templates/one.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/redisdemo/RedisDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootleaf/src/main/resources/templates/Vue_2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>TomcatRubbish:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27126437" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (MavenSpring)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27126437" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27126437" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27126437" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|SpringMVC_two</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27126437" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson:jackson-bom:2.8.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27126437" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

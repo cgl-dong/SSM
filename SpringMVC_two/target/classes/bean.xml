@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/context
+                           http://www.springframework.org/schema/context/spring-context.xsd
+                           http://www.springframework.org/schema/aop
+                           http://www.springframework.org/schema/aop/spring-aop.xsd">
+<bean id="user" class="SpringDemo.User">
+    <!--<property name="age" value="18"></property>
+    <property name="name" value="tom"></property>
+    <property name="sex" value="man"></property>-->
+    <constructor-arg name="age" value="18"></constructor-arg>
+    <constructor-arg name="name" value="深瞳"></constructor-arg>
+    <constructor-arg name="sex" value="男"></constructor-arg>
+</bean>
+
+    <context:component-scan base-package="SpringDemo"></context:component-scan>
+
+    <aop:config>
+        <aop:pointcut id="show" expression="execution(void SpringDemo.UsersMan.show())"></aop:pointcut>
+        <aop:aspect ref="userAspect">
+            <aop:before method="before" pointcut-ref="show"></aop:before>
+            <aop:after method="after" pointcut-ref="show"></aop:after>
+        </aop:aspect>
+    </aop:config>
+</beans>
